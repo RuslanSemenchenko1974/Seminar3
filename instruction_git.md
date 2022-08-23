@@ -40,3 +40,6 @@
 
     git checkout
 
+## Возвращает в актуальное состояние
+
+    git checkout master
